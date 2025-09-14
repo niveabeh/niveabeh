@@ -1,4 +1,14 @@
-<p align="left">Olá, Me chamo Nívea Souza. Seja bem vindo a minha jornada como Dev 😎</p>
+## 👩‍💻 Sobre mim
+
+Me chamo Nívea Souza, tenho 24 anos e sou formada no curso técnico em Desenvolvimento de Sistemas, concluído em 2025. Atualmente, estou cursando o 2º período de Análise e Desenvolvimento de Sistemas e sou estagiária na área de UI e UX, atuando com foco em desenvolvimento front-end.
+
+### 💡 Principais habilidades:
+<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+
+
 
 ###
 
