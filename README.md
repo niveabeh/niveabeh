@@ -1,6 +1,6 @@
 ## 👩‍💻 Sobre mim
 
-Me chamo Nívea Souza. Atualmente, estou cursando o 2º período de Análise e Desenvolvimento de Sistemas e sou estagiária na área de UI e UX, atuando com foco em desenvolvimento front-end.
+Estudante de ADS | Back-end em formação • Front-end
 
 ---
 
