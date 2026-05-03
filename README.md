@@ -2,7 +2,7 @@ Turning curiosity into code and ideas into real projects
 
 
 ### Hard Skills
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,bootstrap,figma,py,php,mysql,,nodejs,js,html,css,sass,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,bootstrap,figma,py,php,mysql,nodejs,js,html,css,sass,wordpress)](https://skillicons.dev)
           
 
 <br><br>
